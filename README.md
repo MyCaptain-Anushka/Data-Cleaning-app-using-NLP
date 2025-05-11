@@ -80,7 +80,7 @@ streamlit run Home.py
 
 This project was developed as part of an academic exercise to demonstrate the integration of data preprocessing techniques with intelligent, privacy-first NLP interactions.
 Developed By
-Anushka Patil
+Anushka Patil,
 Samruddhi Shinde
 
 
