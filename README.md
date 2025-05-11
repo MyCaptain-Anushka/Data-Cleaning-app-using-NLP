@@ -1,7 +1,4 @@
 # Data-Cleaning-app-using-NLP
-Absolutely! Here's the **professional, clean version of your project description** without any emojis or references to Ollama or LLaMA 3.2:
-
----
 
 # Intelligent Data Cleaning Assistant with Private NLP Interaction
 
